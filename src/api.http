@@ -1,0 +1,8 @@
+#### Separar cada request con un comentario descriptivo de lo que hace la req
+GET url
+###
+POST url
+###
+PUT url
+###
+DELETE url
